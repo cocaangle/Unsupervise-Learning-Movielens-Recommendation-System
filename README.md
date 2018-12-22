@@ -8,7 +8,7 @@ This dataset was generated on October 17, 2016.
 Users were selected at random for inclusion. All selected users had rated at least 20 movies. 
 No demographic information is included. Each user is represented by an id, and no other information is provided.
 The data are contained in the files `links.csv`, `movies.csv`, `ratings.csv` and `tags.csv`. \
-This data sets are publicly available for download at <http://grouplens.org/datasets/>. More details please see the readme about dataset
+This data sets are publicly available for download at <http://grouplens.org/datasets/>. More details please see the "Readme" in dataset folder
 
 ### About Project
 In this project, I combined movie dataset with user dataset then create pivot table to get a new rating matrix.
